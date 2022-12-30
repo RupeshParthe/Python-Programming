@@ -1,0 +1,8 @@
+a=input("Enter Your Age: ")
+b=int(a)
+if b<25:
+    print('You are young')
+if 25<b<50:
+    print('Its Time to start Excercise')
+if b>50:
+    print('Control Sugar Intake now')
